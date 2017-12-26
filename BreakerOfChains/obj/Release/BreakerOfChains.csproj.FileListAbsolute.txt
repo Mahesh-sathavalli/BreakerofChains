@@ -1,0 +1,8 @@
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Release\BreakerOfChains.exe.config
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Release\BreakerOfChains.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Release\BreakerOfChains.pdb
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Release\GeekTrust.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Release\GeekTrust.pdb
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\obj\Release\BreakerOfChains.csprojResolveAssemblyReference.cache
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\obj\Release\BreakerOfChains.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\obj\Release\BreakerOfChains.pdb

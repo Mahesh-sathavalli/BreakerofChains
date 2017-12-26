@@ -1,0 +1,9 @@
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Debug\BreakerOfChains.exe.config
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Debug\BreakerOfChains.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\bin\Debug\BreakerOfChains.pdb
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\obj\Debug\BreakerOfChains.csprojResolveAssemblyReference.cache
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\obj\Debug\BreakerOfChains.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\BreakerOfChains\obj\Debug\BreakerOfChains.pdb
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\BreakerofChains\BreakerOfChains\bin\Debug\BreakerOfChains.exe.config
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\BreakerofChains\BreakerOfChains\obj\Debug\BreakerOfChains.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\BreakerofChains\BreakerOfChains\obj\Debug\BreakerOfChains.pdb

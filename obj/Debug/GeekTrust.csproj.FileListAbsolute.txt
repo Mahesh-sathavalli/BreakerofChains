@@ -1,0 +1,6 @@
+C:\Users\mnagaraja\AppData\Local\Temporary Projects\GeekTrust\bin\Debug\GeekTrust.exe.config
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\bin\Debug\GeekTrust.exe.config
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\bin\Debug\GeekTrust.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\bin\Debug\GeekTrust.pdb
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\obj\Debug\GeekTrust.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\obj\Debug\GeekTrust.pdb

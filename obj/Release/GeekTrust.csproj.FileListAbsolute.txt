@@ -1,0 +1,5 @@
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\bin\Release\GeekTrust.exe.config
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\bin\Release\GeekTrust.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\bin\Release\GeekTrust.pdb
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\obj\Release\GeekTrust.exe
+C:\Users\mnagaraja\Documents\Visual Studio 2015\Projects\GeekTrust\GeekTrust\obj\Release\GeekTrust.pdb
